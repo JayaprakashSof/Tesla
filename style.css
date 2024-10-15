@@ -43,17 +43,17 @@ body {
 
   }
   .home {
-    background-image: url('/imges/home-sec.avif');
+    background-image: url('home-sec.avif');
     height: 350px;
   }
   .services {
-    background-image: url('/imges/service-sec.jpeg');
+    background-image: url('service-sec.jpeg');
   }
   .faq {
-    background-image: url('/imges/faq-sec.avif');
+    background-image: url('faq-sec.avif');
   }
   .contact {
-    background-image: url('/imges/contact-sec.avif');
+    background-image: url('contact-sec.avif');
   }
   .map {
     background-image: url('https://www.tesla.com/sites/default/files/modelsx-new/social/cybertruck-social.png');
